@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: ✅ Tests
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: ⬇️ Install dependencies
+        run: sudo apt install -y jq
+
+      - name: ✅ Test
+        run: (cd 02-jq/1-get_json_data; bash test.sh)
