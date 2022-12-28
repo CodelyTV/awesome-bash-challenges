@@ -1,0 +1,322 @@
+[
+  {
+    "titulo": "React de 0 aplicando buenas prácticas",
+    "emoji": "🎛️"
+  },
+  {
+    "titulo": "API HTTP en Kotlin aplicando Arquitectura Hexagonal",
+    "emoji": "💎"
+  },
+  {
+    "titulo": "DDD en TypeScript: Comunicación entre servicios y aplicaciones",
+    "emoji": "🛰"
+  },
+  {
+    "titulo": "Linting en JavaScript y TypeScript",
+    "emoji": "🔦"
+  },
+  {
+    "titulo": "Desarrolla plugins de Figma con TypeScript",
+    "emoji": "🪆"
+  },
+  {
+    "titulo": "Patrones de Diseño de Comportamiento",
+    "emoji": "🐝"
+  },
+  {
+    "titulo": "TypeScript Avanzado: Más alla de any",
+    "emoji": "🚜"
+  },
+  {
+    "titulo": "Maquetando la web de Codely desde 0",
+    "emoji": "🍍"
+  },
+  {
+    "titulo": "Gestión de logs con Loki y Grafana",
+    "emoji": "🏵️"
+  },
+  {
+    "titulo": "Entrevistas sobre eXtreme Programming",
+    "emoji": "🎤"
+  },
+  {
+    "titulo": "TDD: Test-Driven Development",
+    "emoji": "♻️"
+  },
+  {
+    "titulo": "Directos exclusivos CodelyTV Pro",
+    "emoji": "🎥"
+  },
+  {
+    "titulo": "Setup macOS para Programar",
+    "emoji": ""
+  },
+  {
+    "titulo": "Lightning Talks",
+    "emoji": "⚡"
+  },
+  {
+    "titulo": "eXtreme Programming",
+    "emoji": "🧑‍🔬"
+  },
+  {
+    "titulo": "Introducción a Kotlin: Tu primera app",
+    "emoji": "🐈"
+  },
+  {
+    "titulo": "DDD en TypeScript: Modelado y arquitectura",
+    "emoji": "🔷"
+  },
+  {
+    "titulo": "Auditorías y Acompañamientos",
+    "emoji": "🐷"
+  },
+  {
+    "titulo": "Gestión de Estado en React",
+    "emoji": "🍥"
+  },
+  {
+    "titulo": "Web performance",
+    "emoji": "🌪️"
+  },
+  {
+    "titulo": "Patrones de Diseño: Creacionales",
+    "emoji": "🏭"
+  },
+  {
+    "titulo": "CSS Flex a fondo",
+    "emoji": "🤸"
+  },
+  {
+    "titulo": "De JavaScript a TypeScript",
+    "emoji": "🏗️"
+  },
+  {
+    "titulo": "Symfony mantenible y escalable",
+    "emoji": "🎶"
+  },
+  {
+    "titulo": "CSS Grid a fondo",
+    "emoji": "🍱"
+  },
+  {
+    "titulo": "Setup Linux para Programar",
+    "emoji": "🐧"
+  },
+  {
+    "titulo": "JavaScript moderno",
+    "emoji": "🐥"
+  },
+  {
+    "titulo": "Refactoring de Code Smells a Clean Code: Change Preventers",
+    "emoji": "🧹"
+  },
+  {
+    "titulo": "Light & Dark themes accesibles",
+    "emoji": "🌚🌝"
+  },
+  {
+    "titulo": "API HTTP en Go aplicando Arquitectura Hexagonal",
+    "emoji": "⛳"
+  },
+  {
+    "titulo": "Testing en frontend",
+    "emoji": "🐙"
+  },
+  {
+    "titulo": "Karabiner: Atajos de teclado para todo",
+    "emoji": "🎱"
+  },
+  {
+    "titulo": "Arquitectura CSS",
+    "emoji": "🗼"
+  },
+  {
+    "titulo": "PHP 8: Novedades y ejemplos para el Mundo Real™",
+    "emoji": "🐘"
+  },
+  {
+    "titulo": "Vue 3: Novedades aplicadas al mundo real",
+    "emoji": "✌️"
+  },
+  {
+    "titulo": "Buenas prácticas con CSS: Layouts",
+    "emoji": "📐"
+  },
+  {
+    "titulo": "Refactoring de Code Smells a Clean Code: Bloaters",
+    "emoji": "🧼"
+  },
+  {
+    "titulo": "Teclados Mecánicos",
+    "emoji": "⌨️"
+  },
+  {
+    "titulo": "Makefiles",
+    "emoji": "🐂"
+  },
+  {
+    "titulo": "Monitoring con Prometheus",
+    "emoji": "🔥"
+  },
+  {
+    "titulo": "Visualiza métricas de Prometheus con Grafana",
+    "emoji": "👁‍🗨"
+  },
+  {
+    "titulo": "Notion: Productividad en equipo",
+    "emoji": "🌈"
+  },
+  {
+    "titulo": "Bash para el día a día: Scripting & Productividad",
+    "emoji": "💻"
+  },
+  {
+    "titulo": "Todo sobre los dotfiles",
+    "emoji": "🚀"
+  },
+  {
+    "titulo": "Productividad con iTerm: Terminal macOS",
+    "emoji": "💨"
+  },
+  {
+    "titulo": "Automatiza tu flujo de trabajo con GitHub Actions",
+    "emoji": "🤖"
+  },
+  {
+    "titulo": "Terminal 100% productiva con Zsh",
+    "emoji": "💻"
+  },
+  {
+    "titulo": "Integración Continua con GitHub Actions",
+    "emoji": "🤖"
+  },
+  {
+    "titulo": "Exprimiendo IntelliJ",
+    "emoji": "⚡"
+  },
+  {
+    "titulo": "DDD en Java",
+    "emoji": "☕"
+  },
+  {
+    "titulo": "DDD en PHP",
+    "emoji": "🐘"
+  },
+  {
+    "titulo": "Git: Introducción y trabajo en equipo",
+    "emoji": "🔀"
+  },
+  {
+    "titulo": "Testing: Introducción y buenas prácticas",
+    "emoji": "✅"
+  },
+  {
+    "titulo": "Introducción a Go: Tu primera app",
+    "emoji": "⚡"
+  },
+  {
+    "titulo": "Domain-Driven Design",
+    "emoji": "🗿"
+  },
+  {
+    "titulo": "ReactJS: De 0 a deploy",
+    "emoji": "⚛️"
+  },
+  {
+    "titulo": "Kubernetes para desarrolladores",
+    "emoji": "⛵"
+  },
+  {
+    "titulo": "Migrando a VueJS progresivamente",
+    "emoji": "♻️️"
+  },
+  {
+    "titulo": "ELK: Centraliza logs con Elastic Stack",
+    "emoji": "📊"
+  },
+  {
+    "titulo": "Principios SOLID aplicados",
+    "emoji": "🧱"
+  },
+  {
+    "titulo": "Comunicación entre microservicios: Event-Driven Architecture",
+    "emoji": "💬"
+  },
+  {
+    "titulo": "Programación funcional: Refactor de OO a TypeClasses",
+    "emoji": "ƛ"
+  },
+  {
+    "titulo": "Docker: De 0 a deploy",
+    "emoji": "🐳"
+  },
+  {
+    "titulo": "Exprimiendo las vistas de Android",
+    "emoji": "🖌️"
+  },
+  {
+    "titulo": "CQRS y Event Sourcing con Kotlin y Axon Framework",
+    "emoji": "🤹"
+  },
+  {
+    "titulo": "Tu primera API HTTP con Scala",
+    "emoji": "🗣️"
+  },
+  {
+    "titulo": "Arquitectura Hexagonal",
+    "emoji": "🎯"
+  },
+  {
+    "titulo": "AWS: Escalando apps - Load Balancers y Auto Scaling Groups",
+    "emoji": "📈"
+  },
+  {
+    "titulo": "Crea una app MEAN profesional con AngularJS y Webpack",
+    "emoji": "🛡️"
+  },
+  {
+    "titulo": "Testing unidirectional dataflow con Vuex y Jest",
+    "emoji": "🍄"
+  },
+  {
+    "titulo": "Crea una app con VueJS y Jest aplicando TDD",
+    "emoji": "✌️"
+  },
+  {
+    "titulo": "Buenas prácticas de BDD con Gherkin",
+    "emoji": "🥒"
+  },
+  {
+    "titulo": "Introducción a Scala",
+    "emoji": "🌀"
+  },
+  {
+    "titulo": "UI Testing en iOS con KIF",
+    "emoji": "📱"
+  },
+  {
+    "titulo": "Screenshot testing en iOS",
+    "emoji": "🖼️"
+  },
+  {
+    "titulo": "Screenshot testing en Android",
+    "emoji": "📸"
+  },
+  {
+    "titulo": "UI Testing en Android con Espresso",
+    "emoji": "🎨"
+  },
+  {
+    "titulo": "AWS EC2: Tu primer deploy",
+    "emoji": "☁️"
+  },
+  {
+    "titulo": "Agile: Cómo mejorar tus retrospectivas",
+    "emoji": "🤝"
+  },
+  {
+    "titulo": "CQRS: Command Query Responsibility Segregation",
+    "emoji": "🚌"
+  }
+]
