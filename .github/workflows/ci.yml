@@ -18,4 +18,5 @@ jobs:
 
       - name: ✅ Test
         run: (cd 02-jq/1-get_json_data; bash test.sh) &&
-             (cd 02-jq/2-aggregate_json_data; bash test.sh)
+             (cd 02-jq/2-aggregate_json_data; bash test.sh) &&
+             (cd 02-jq/3-complex_json_operations; bash test.sh)

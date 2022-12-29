@@ -1,0 +1,94 @@
+[
+  {
+    "titulo": "🛡️ Crea una app MEAN profesional con AngularJS y Webpack",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "📈 AWS: Escalando apps - Load Balancers y Auto Scaling Groups",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "ƛ Programación funcional: Refactor de OO a TypeClasses",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "💬 Comunicación entre microservicios: Event-Driven Architecture",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "🧹 Refactoring de Code Smells a Clean Code: Change Preventers",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "🛰 DDD en TypeScript: Comunicación entre servicios y aplicaciones",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "💎 API HTTP en Kotlin aplicando Arquitectura Hexagonal",
+    "titulo_largo": "si"
+  },
+  {
+    "titulo": "🚌 CQRS: Command Query Responsibility Segregation",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "✌️ Crea una app con VueJS y Jest aplicando TDD",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🍄 Testing unidirectional dataflow con Vuex y Jest",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🤹 CQRS y Event Sourcing con Kotlin y Axon Framework",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "✅ Testing: Introducción y buenas prácticas",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🤖 Integración Continua con GitHub Actions",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🤖 Automatiza tu flujo de trabajo con GitHub Actions",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "💨 Productividad con iTerm: Terminal macOS",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "💻 Bash para el día a día: Scripting & Productividad",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "👁‍🗨 Visualiza métricas de Prometheus con Grafana",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🧼 Refactoring de Code Smells a Clean Code: Bloaters",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "✌️ Vue 3: Novedades aplicadas al mundo real",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🐘 PHP 8: Novedades y ejemplos para el Mundo Real™",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "⛳ API HTTP en Go aplicando Arquitectura Hexagonal",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🔷 DDD en TypeScript: Modelado y arquitectura",
+    "titulo_largo": "no"
+  },
+  {
+    "titulo": "🪆 Desarrolla plugins de Figma con TypeScript",
+    "titulo_largo": "no"
+  }
+]
