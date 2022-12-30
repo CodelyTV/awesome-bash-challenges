@@ -1,41 +1,43 @@
-{
-  "emoji": "⚡",
-  "total": 3,
-  "courses": [
-    "Lightning Talks",
-    "Exprimiendo IntelliJ",
-    "Introducción a Go: Tu primera app"
-  ]
-}
-{
-  "emoji": "🤖",
-  "total": 2,
-  "courses": [
-    "Automatiza tu flujo de trabajo con GitHub Actions",
-    "Integración Continua con GitHub Actions"
-  ]
-}
-{
-  "emoji": "💻",
-  "total": 2,
-  "courses": [
-    "Bash para el día a día: Scripting & Productividad",
-    "Terminal 100% productiva con Zsh"
-  ]
-}
-{
-  "emoji": "🐘",
-  "total": 2,
-  "courses": [
-    "PHP 8: Novedades y ejemplos para el Mundo Real™",
-    "DDD en PHP"
-  ]
-}
-{
-  "emoji": "✌️",
-  "total": 2,
-  "courses": [
-    "Vue 3: Novedades aplicadas al mundo real",
-    "Crea una app con VueJS y Jest aplicando TDD"
-  ]
-}
+[
+  {
+    "emoji": "⚡",
+    "total": 3,
+    "courses": [
+      "Lightning Talks",
+      "Exprimiendo IntelliJ",
+      "Introducción a Go: Tu primera app"
+    ]
+  },
+  {
+    "emoji": "🤖",
+    "total": 2,
+    "courses": [
+      "Automatiza tu flujo de trabajo con GitHub Actions",
+      "Integración Continua con GitHub Actions"
+    ]
+  },
+  {
+    "emoji": "💻",
+    "total": 2,
+    "courses": [
+      "Bash para el día a día: Scripting & Productividad",
+      "Terminal 100% productiva con Zsh"
+    ]
+  },
+  {
+    "emoji": "🐘",
+    "total": 2,
+    "courses": [
+      "PHP 8: Novedades y ejemplos para el Mundo Real™",
+      "DDD en PHP"
+    ]
+  },
+  {
+    "emoji": "✌️",
+    "total": 2,
+    "courses": [
+      "Vue 3: Novedades aplicadas al mundo real",
+      "Crea una app con VueJS y Jest aplicando TDD"
+    ]
+  }
+]

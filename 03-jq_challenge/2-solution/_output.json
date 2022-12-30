@@ -1,0 +1,44 @@
+[
+  {
+    "user": "rgomezcasas",
+    "total_prs": 8,
+    "prs_title": [
+      "2022-09-26T17:56:02Z: style: use tabs to indent",
+      "2022-05-30T12:35:12Z: feat: backup already existing files on install",
+      "2022-05-30T09:00:36Z: feat: improve package dump message",
+      "2022-05-29T14:34:34Z: feat: improve update_all apps process",
+      "2022-05-29T13:00:08Z: feat: allow to lint and static analysis dotfiles",
+      "2022-05-18T12:26:33Z: feat: update theme to use the new branding",
+      "2022-02-19T12:03:12Z: docs: improve docker docs",
+      "2021-11-12T17:03:37Z: docs: improve readme"
+    ]
+  },
+  {
+    "user": "borjapazr",
+    "total_prs": 5,
+    "prs_title": [
+      "2021-11-23T11:50:23Z: doc(readme): fix typo in README.md",
+      "2021-11-13T12:02:47Z: feat: Add .editorconfig to dotfiles_template",
+      "2021-11-13T01:10:58Z: feat(format): Add .editorconfig default options",
+      "2021-11-07T14:08:23Z: Fix lint job in the CI workflow",
+      "2021-11-07T12:35:03Z: Set the correct command name in the documentation of static_analysis script"
+    ]
+  },
+  {
+    "user": "gtrabanco",
+    "total_prs": 3,
+    "prs_title": [
+      "2021-09-12T12:48:19Z: Fix user autocompletions folder naming when loading",
+      "2021-08-22T22:13:59Z: [Fix] #183",
+      "2021-07-27T21:25:36Z: Fixed issue with LAST_CODE"
+    ]
+  },
+  {
+    "user": "ismanapa",
+    "total_prs": 2,
+    "prs_title": [
+      "2022-05-27T14:15:52Z: feat: add winget support",
+      "2022-05-27T13:16:38Z: feat: add support to wsl paths"
+    ]
+  }
+]
