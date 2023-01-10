@@ -1,4 +1,7 @@
-# 🔥 Reto
-* Recorre el json `_input.json` generando una propiedad que se llame `titulo` que sea una combinación del `emoji` un espacio en blanco y el `title`.
-* Añade otra propiedad llamada `titulo_largo` que su valor será `si` si la longitud del `title` inicial es mayor de 50 carácteres y `no` si lo contrario.
-* Filtra luego las que este nuevo título tengan una longitud mayor a 40 carácteres.
+# 🔥 Challenge
+
+1. Add a `titulo` property on each `_input.json` item combining the `emoji` one, a blank space, and the `title` one.
+2. Add a `titulo_largo` property on each `_input.json` item. Its value must be:
+   * `si`: if the initial `title` property value has more than 50 characters
+   * `no`: otherwise
+3. Filter out the JSON items only keeping the ones with a `titulo_largo` property value with more than 40 charaters
