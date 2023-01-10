@@ -1,2 +1,4 @@
-# 🔥 Reto
-* Recorre el json `_input.json` quedándote sólo con con las claves `title` y `emoji` y renombra `title` a `titulo`
+# 🔥 Challenge
+
+1. Filter out the `_input.json` JSON items properties only keeping the `title` and `emoji` ones
+2. Rename the `title` property to `titulo`
