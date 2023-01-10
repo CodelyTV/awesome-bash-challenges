@@ -1,7 +1,8 @@
-# 🔥 Reto
-* Quedarnos sólo con los logs de los días 28 y 29 de junio
-* Todos los datos separados por tabs
-* La fecha con un formato: `29/Jun/2023 12:53`
-* El verbo HTTP sólo y en minúsculas
-* El path en mayúsculas
-* Ordenado por fecha descendiente
+# 🔥 Challenge
+
+* Filter the `_input.log` lines only keeping the ones from June 28th and 29th
+* Replace the fields separator by tabs
+* Format the date to `29/Jun/2023 12:53`
+* Modify the HTTP verb showing it in lowecase
+* Show the URL path in uppercase
+* Sort descendently by date
