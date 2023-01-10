@@ -4,4 +4,4 @@ jq '[. |
  sort_by(.total_prs) |
   reverse |
   .[] |
-  select(.total_prs | length > 1)]' "$PWD/_input.json"
+  select(.total_prs > 1)]' "$PWD/_input.json"
