@@ -1,0 +1,5150 @@
+[
+  {
+    "id": 7350813,
+    "brand": "Emily Brontë",
+    "price": "3.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$4.95"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$9.99"
+      },
+      {
+        "name": "Flexibound",
+        "price": "$8.59"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:40.084Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 2004979,
+    "brand": "Drew Daywalt",
+    "price": "12.08 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$9.19"
+      },
+      {
+        "name": "Board book",
+        "price": "$15.93"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:16.45Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 8305838,
+    "brand": "David Walliams",
+    "price": "20.43 USD",
+    "formats": [
+      {
+        "name": "Paperback",
+        "price": "$24.78"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$17.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.54Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 8375526,
+    "brand": "Caroline Hirons",
+    "price": "28.89 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$16.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:39.675Z",
+    "categories": [
+      "Books",
+      "Crafts, Hobbies & Home",
+      "Home Improvement & Design"
+    ]
+  },
+  {
+    "id": 60254920,
+    "brand": "Maurice Sendak",
+    "price": "13.2 USD",
+    "formats": [
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$5.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$28.42"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$41.68"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:38.391Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Science Fiction & Fantasy"
+    ]
+  },
+  {
+    "id": 12672430,
+    "brand": "Shel Silverstein",
+    "price": "9.09 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:54.85Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Classics"
+    ]
+  },
+  {
+    "id": 12770225,
+    "brand": "Benjamin GrahamJason Zweig",
+    "price": "14.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$15.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.032Z",
+    "categories": [
+      "Books",
+      "Business & Money",
+      "Investing"
+    ]
+  },
+  {
+    "id": 62429078,
+    "brand": "Karin Slaughter",
+    "price": "9.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$37.70"
+      },
+      {
+        "name": "Paperback",
+        "price": "$7.98"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$20.59"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:16.487Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 60652888,
+    "brand": "C. S. Lewis",
+    "price": "22.49 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$13.69"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$17.64"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$29.99"
+      },
+      {
+        "name": "Board book",
+        "price": "$23.10"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:14.947Z",
+    "categories": [
+      "Books",
+      "Christian Books & Bibles",
+      "Christian Living"
+    ]
+  },
+  {
+    "id": 60652926,
+    "brand": "C. S. Lewis",
+    "price": "13.69 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$22.49"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$17.64"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$29.99"
+      },
+      {
+        "name": "Board book",
+        "price": "$23.10"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:45.221Z",
+    "categories": [
+      "Books",
+      "Christian Books & Bibles",
+      "Christian Living"
+    ]
+  },
+  {
+    "id": 62439596,
+    "brand": "Sally Thorne",
+    "price": "12.59 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": ""
+      },
+      {
+        "name": "Audio CD",
+        "price": "$15.77"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.407Z",
+    "categories": [
+      "Books",
+      "Humor & Entertainment",
+      "Humor"
+    ]
+  },
+  {
+    "id": 62931067,
+    "brand": "Cicely Tyson",
+    "price": "17.32 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$21.44"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$35.20"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:37.433Z",
+    "categories": [
+      "Books",
+      "Biographies & Memoirs",
+      "Arts & Literature"
+    ]
+  },
+  {
+    "id": 61992275,
+    "brand": "by Katherine Applegate (Author), Patricia Castelao (Illustrator)",
+    "price": "6.96 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$13.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:39.424Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Arts, Music & Photography"
+    ]
+  },
+  {
+    "id": 61992887,
+    "brand": "C. S. Lewis",
+    "price": "20.33 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$29.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$53.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$29.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$56.98"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:21.733Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 140177396,
+    "brand": "John Steinbeck",
+    "price": "8.18 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.30"
+      },
+      {
+        "name": "Paperback",
+        "price": "$6.69"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$17.57"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.899Z",
+    "categories": [
+      "Books",
+      "Politics & Social Sciences",
+      "Politics & Government"
+    ]
+  },
+  {
+    "id": 140186425,
+    "brand": "John Steinbeck",
+    "price": "6.69 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.30"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.18"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$17.57"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:26.293Z",
+    "categories": [
+      "Books",
+      "Politics & Social Sciences",
+      "Politics & Government"
+    ]
+  },
+  {
+    "id": 13262795,
+    "brand": "Mark Manson",
+    "price": "11.5 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$20.71"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:38.322Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Happiness"
+    ]
+  },
+  {
+    "id": 62457802,
+    "brand": "Adam Silvera",
+    "price": "8.07 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": ""
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$22.67"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:37.728Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 13265096,
+    "brand": "Yuval Noah Harari",
+    "price": "33.49 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$18.38"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:16.659Z",
+    "categories": [
+      "Books",
+      "History",
+      "World"
+    ]
+  },
+  {
+    "id": 13265125,
+    "brand": "Yuval Noah Harari",
+    "price": "18.38 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$33.49"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:31.866Z",
+    "categories": [
+      "Books",
+      "History",
+      "World"
+    ]
+  },
+  {
+    "id": 62466593,
+    "brand": "Kim Krans",
+    "price": "28.61 USD",
+    "formats": [
+      {
+        "name": "Cards",
+        "price": "$40.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:38.995Z",
+    "categories": [
+      "Books",
+      "Religion & Spirituality",
+      "New Age & Spirituality"
+    ]
+  },
+  {
+    "id": "006246776X",
+    "brand": "Jory JohnPete Oswald",
+    "price": "11.73 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$15.94"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$52.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.629Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Growing Up & Facts of Life"
+    ]
+  },
+  {
+    "id": 62943472,
+    "brand": "Kate Quinn",
+    "price": "13.49 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$23.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$33.77"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:15.575Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 13117463,
+    "brand": "Veronica Roth",
+    "price": "10.81 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$8.46"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:40.177Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 13117475,
+    "brand": "Veronica Roth",
+    "price": "11.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.49"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.702Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 13117481,
+    "brand": "Veronica Roth",
+    "price": "11.49 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:19.236Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 62024078,
+    "brand": "Veronica Roth",
+    "price": "10.1 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$7.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.00"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$71.48"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:19.45Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 140280197,
+    "brand": "Robert Greene",
+    "price": "14.7 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$16.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$104.50"
+      },
+      {
+        "name": "Spiral-bound",
+        "price": "$39.95"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$27.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.042Z",
+    "categories": [
+      "Books",
+      "Politics & Social Sciences",
+      "Politics & Government"
+    ]
+  },
+  {
+    "id": 62498533,
+    "brand": "Angie Thomas",
+    "price": "9.12 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$13.25"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$24.36"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.112Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 60850523,
+    "brand": "Aldous Huxley",
+    "price": "11.55 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.89"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$20.82"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$11.47"
+      },
+      {
+        "name": "Board book",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:46.565Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "United States"
+    ]
+  },
+  {
+    "id": 62963686,
+    "brand": "Ann Patchett",
+    "price": "10.9 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$13.85"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$15.53"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.927Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 60853964,
+    "brand": "Neil GaimanTerry Pratchett",
+    "price": "29.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$17.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.08"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$80.63"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.913Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 60853980,
+    "brand": "Neil GaimanTerry Pratchett",
+    "price": "8.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$29.99"
+      },
+      {
+        "name": "Paperback",
+        "price": "$17.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.08"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$80.63"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:50.745Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 62968394,
+    "brand": "Steve Doocy",
+    "price": "13.69 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$15.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.548Z",
+    "categories": [
+      "Books",
+      "Cookbooks, Food & Wine",
+      "Cooking Education & Reference"
+    ]
+  },
+  {
+    "id": 62059947,
+    "brand": "Kiera Cass",
+    "price": "6.48 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$15.59"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$17.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:16.996Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Science Fiction & Fantasy"
+    ]
+  },
+  {
+    "id": 62060619,
+    "brand": "Madeline Miller",
+    "price": "25.19 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$10.35"
+      },
+      {
+        "name": "Audio CD",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:44.801Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 13132183,
+    "brand": "Madeline Miller",
+    "price": "10.35 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$25.19"
+      },
+      {
+        "name": "Audio, Cassette",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:43.186Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 62976583,
+    "brand": "Charlie Mackesy",
+    "price": "10.35 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$12.29"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:44.678Z",
+    "categories": [
+      "Books",
+      "Comics & Graphic Novels",
+      "Graphic Novels"
+    ]
+  },
+  {
+    "id": 60890681,
+    "brand": "Liane Moriarty",
+    "price": "7.98 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$5.98"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$21.63"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:25.597Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Dramas & Plays"
+    ]
+  },
+  {
+    "id": 62073478,
+    "brand": "Agatha Christie",
+    "price": "9.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.66"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$29.99"
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:25.989Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 62073486,
+    "brand": "Agatha Christie",
+    "price": "7.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.66"
+      },
+      {
+        "name": "Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$29.99"
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.121Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 62981951,
+    "brand": "Frances Hodgson Burnett",
+    "price": "15.49 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$6.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$5.95"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$10.20"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$51.95"
+      }
+    ],
+    "publish_date": "2021-12-21T23:40:43.05Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 62563297,
+    "brand": "Bernard Cornwell",
+    "price": "18.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$14.28"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$39.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:19.064Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 60935464,
+    "brand": "Harper Lee",
+    "price": "7.19 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$21.22"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.44"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.22"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$45.88"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.622Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 62654195,
+    "brand": "Kate Quinn",
+    "price": "11.46 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$32.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 62667580,
+    "brand": "Liv Constantine",
+    "price": "12.58 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$25.69"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.998Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 13332389,
+    "brand": "Rumaan Alam",
+    "price": "13.59 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$18.26"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.439Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 13386060,
+    "brand": "Veronica Roth",
+    "price": "8.39 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.81"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.791Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 13386066,
+    "brand": "Veronica Roth",
+    "price": "10.39 USD",
+    "formats": [
+      {
+        "name": "Kindle Edition with Audio/Video",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.975Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 13386072,
+    "brand": "Veronica Roth",
+    "price": "9.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$6.33"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.00"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$71.48"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.666Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 13388869,
+    "brand": "Omid ScobieCarolyn Durand",
+    "price": "16.62 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.19"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$24.36"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.747Z",
+    "categories": [
+      "Books",
+      "Biographies & Memoirs",
+      "Leaders & Notable People"
+    ]
+  },
+  {
+    "id": 13388875,
+    "brand": "Omid ScobieCarolyn Durand",
+    "price": "11.19 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.62"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:21.259Z",
+    "categories": [
+      "Books",
+      "Biographies & Memoirs",
+      "Leaders & Notable People"
+    ]
+  },
+  {
+    "id": 62678426,
+    "brand": "A. J Finn",
+    "price": "7.98 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$13.23"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$18.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.498Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 61124958,
+    "brand": "E. B WhiteGarth Williams",
+    "price": "5.47 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$6.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$7.64"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$26.46"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:16Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Animals"
+    ]
+  },
+  {
+    "id": 140501738,
+    "brand": "Don Freeman",
+    "price": "7.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.25"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$30.17"
+      },
+      {
+        "name": "Board book",
+        "price": "$4.28"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:50.544Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Animals"
+    ]
+  },
+  {
+    "id": 62696122,
+    "brand": "Aldous Huxley",
+    "price": "17.89 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.55"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$20.82"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$11.47"
+      },
+      {
+        "name": "Board book",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:33.351Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "United States"
+    ]
+  },
+  {
+    "id": 62697250,
+    "brand": "Neil GaimanTerry Pratchett",
+    "price": "17.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$29.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.08"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$80.63"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:29.359Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 63078902,
+    "brand": "Julia Quinn",
+    "price": "11.54 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.49"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$4.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$27.41"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:18.516Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 13406918,
+    "brand": "Liv Constantine",
+    "price": "7.48 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$25.69"
+      },
+      {
+        "name": "Paperback",
+        "price": "$12.58"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$24.36"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.698Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": "006313862X",
+    "brand": "Julia Quinn",
+    "price": "7.5 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:22.809Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 63138646,
+    "brand": "Julia Quinn",
+    "price": "13.58 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.11"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$12.87"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$27.44"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:22.934Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 63141248,
+    "brand": "Julia Quinn",
+    "price": "8.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$12.89"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$24.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:15.523Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 13419182,
+    "brand": "Julia Quinn",
+    "price": "7.1 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.89"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$4.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$91.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:54.201Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 63141280,
+    "brand": "Julia Quinn",
+    "price": "6.9 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$12.89"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$4.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$27.41"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:28.6Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 63141299,
+    "brand": "Julia Quinn",
+    "price": "10.16 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$12.89"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.49"
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:21.66Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 13419202,
+    "brand": "Julia Quinn",
+    "price": "7.09 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.89"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$4.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$91.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:22.24Z",
+    "categories": [
+      "Books",
+      "Romance",
+      "Historical"
+    ]
+  },
+  {
+    "id": 63142783,
+    "brand": "Charlie Mackesy",
+    "price": "19.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$12.29"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.777Z",
+    "categories": [
+      "Books",
+      "Comics & Graphic Novels",
+      "Graphic Novels"
+    ]
+  },
+  {
+    "id": 62797158,
+    "brand": "Heather Morris",
+    "price": "12.4 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$24.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$23.15"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:26.857Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 62803832,
+    "brand": "Gary John Bishop",
+    "price": "12.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.95"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$11.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.752Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Happiness"
+    ]
+  },
+  {
+    "id": 62820184,
+    "brand": "Joanna Gaines",
+    "price": "14 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$17.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:19.099Z",
+    "categories": [
+      "Books",
+      "Cookbooks, Food & Wine",
+      "Regional & International"
+    ]
+  },
+  {
+    "id": 13762927,
+    "brand": "E. B. WhiteGarth Williams",
+    "price": "7.64 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$6.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$5.47"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$26.46"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:16.952Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": "006283486X",
+    "brand": "Daniel Silva",
+    "price": "17.78 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$21.26"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$35.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:25.72Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": "006440188X",
+    "brand": "Frances Hodgson Burnett",
+    "price": "6.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$18.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$5.95"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$10.20"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$51.95"
+      }
+    ],
+    "publish_date": "2021-12-21T23:40:19.991Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 62841742,
+    "brand": "Hoda KotbSuzie Mason",
+    "price": "14.52 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$15.99"
+      },
+      {
+        "name": "Board book",
+        "price": "$7.19"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:17.769Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Growing Up & Facts of Life"
+    ]
+  },
+  {
+    "id": 62841750,
+    "brand": "Hoda KotbSuzie Mason",
+    "price": "7.19 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.52"
+      },
+      {
+        "name": "Paperback",
+        "price": "$15.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:15.885Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Growing Up & Facts of Life"
+    ]
+  },
+  {
+    "id": 141439513,
+    "brand": "Jane Austen",
+    "price": "9 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$22.49"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$5.95"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$9.99"
+      },
+      {
+        "name": "Flexibound",
+        "price": "$21.91"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:59.256Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Classics"
+    ]
+  },
+  {
+    "id": 141439556,
+    "brand": "Emily Brontë",
+    "price": "6.19 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$4.95"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$9.99"
+      },
+      {
+        "name": "Flexibound",
+        "price": "$8.59"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:47.98Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 141439572,
+    "brand": "Oscar Wilde",
+    "price": "8.69 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$9.87"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$6.46"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$12.79"
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:36:17.937Z",
+    "categories": [
+      "Books",
+      "LGBTQ+ Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 64431789,
+    "brand": "Maurice Sendak",
+    "price": "5 USD",
+    "formats": [
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$13.20"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$28.42"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$41.68"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:19.438Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Animals"
+    ]
+  },
+  {
+    "id": 62297198,
+    "brand": "Darin Olien",
+    "price": "10.79 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.49"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$26.49"
+      },
+      {
+        "name": "Spiral-bound",
+        "price": "$23.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$17.25"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.421Z",
+    "categories": [
+      "Books",
+      "Health, Fitness & Dieting",
+      "Diets & Weight Loss"
+    ]
+  },
+  {
+    "id": 13205863,
+    "brand": "J. D. Vance",
+    "price": "12.35 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$7.85"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:38:15.448Z",
+    "categories": [
+      "Books",
+      "Biographies & Memoirs",
+      "Historical"
+    ]
+  },
+  {
+    "id": 13205869,
+    "brand": "J. D. Vance",
+    "price": "7.85 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$12.35"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.852Z",
+    "categories": [
+      "Books",
+      "History",
+      "Americas"
+    ]
+  },
+  {
+    "id": 13206171,
+    "brand": "Ashlee Vance",
+    "price": "16.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$13.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$17.58"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:50.821Z",
+    "categories": [
+      "Books",
+      "Engineering & Transportation",
+      "Engineering"
+    ]
+  },
+  {
+    "id": "006230125X",
+    "brand": "Ashlee Vance",
+    "price": "13.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$17.58"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:50.206Z",
+    "categories": [
+      "Books",
+      "Engineering & Transportation",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 61537934,
+    "brand": "Garth Stein",
+    "price": "14.85 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:24.711Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 61537969,
+    "brand": "Garth Stein",
+    "price": "9.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.85"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:24.308Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 141988517,
+    "brand": "Jordan B. Peterson",
+    "price": "17.63 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.23"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:22.882Z",
+    "categories": [
+      "Books",
+      "Business & Money",
+      "Job Hunting & Careers"
+    ]
+  },
+  {
+    "id": 13212165,
+    "brand": "Paulo Coelho",
+    "price": "8.89 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$37.52"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$20.01"
+      },
+      {
+        "name": "Audio CD",
+        "price": ""
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$57.91"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:54.213Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 62316095,
+    "brand": "Yuval Noah Harari",
+    "price": "28.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.20"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$26.61"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.06Z",
+    "categories": [
+      "Books",
+      "History",
+      "World"
+    ]
+  },
+  {
+    "id": 13212751,
+    "brand": "by Yuval Harari (Author)",
+    "price": "11.2 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$28.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:25.474Z",
+    "categories": [
+      "Books",
+      "History",
+      "World"
+    ]
+  },
+  {
+    "id": 62319795,
+    "brand": "Michelle McNamara",
+    "price": "11.22 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$23.46"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:29.383Z",
+    "categories": [
+      "Books",
+      "Biographies & Memoirs",
+      "Professionals & Academics"
+    ]
+  },
+  {
+    "id": 62868942,
+    "brand": "Lucy Foley",
+    "price": "13.09 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$18.53"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$24.36"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:20.394Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Mystery"
+    ]
+  },
+  {
+    "id": "006287067X",
+    "brand": "Heather Morris",
+    "price": "24.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$12.40"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$23.15"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.164Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 25822542,
+    "brand": "John Green",
+    "price": "6.4 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.98"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$2.72"
+      },
+      {
+        "name": "Textbook Binding",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:43.78Z",
+    "categories": [
+      "Books",
+      "Romance",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": 142403873,
+    "brand": "Julia Donaldson",
+    "price": "4.99 USD",
+    "formats": [
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$15.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$12.75"
+      },
+      {
+        "name": "Board book",
+        "price": "$8.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:27.639Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Animals"
+    ]
+  },
+  {
+    "id": "014240733X",
+    "brand": "S. E. Hinton",
+    "price": "5.89 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$13.28"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$5.89"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$25.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:55.305Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 62899147,
+    "brand": "Mark Manson",
+    "price": "20.71 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$11.50"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:24.347Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Happiness"
+    ]
+  },
+  {
+    "id": 62353594,
+    "brand": "Julia Quinn",
+    "price": "4.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.49"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.54"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$27.41"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:29.021Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": "006235373X",
+    "brand": "Julia Quinn",
+    "price": "4.48 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.89"
+      },
+      {
+        "name": "Paperback",
+        "price": "$7.10"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$91.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:24.171Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Women's Fiction"
+    ]
+  },
+  {
+    "id": 62353780,
+    "brand": "Julia Quinn",
+    "price": "4.48 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$12.89"
+      },
+      {
+        "name": "Paperback",
+        "price": "$13.08"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$27.41"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:24.929Z",
+    "categories": [
+      "Books",
+      "Romance",
+      "Historical"
+    ]
+  },
+  {
+    "id": 62387243,
+    "brand": "Veronica Roth",
+    "price": "8.46 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.81"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:26.218Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": "014242417X",
+    "brand": "John Green",
+    "price": "6.1 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$11.50"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$7.98"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:30.835Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 62397346,
+    "brand": "Howard Zinn",
+    "price": "13.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:23.308Z",
+    "categories": [
+      "Books",
+      "History",
+      "Americas"
+    ]
+  },
+  {
+    "id": 62407805,
+    "brand": "Chris VossTahl Raz",
+    "price": "17.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$16.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$16.50"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": ""
+      },
+      {
+        "name": "Audio CD",
+        "price": "$21.31"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:26.595Z",
+    "categories": [
+      "Books",
+      "Business & Money",
+      "Management & Leadership"
+    ]
+  },
+  {
+    "id": 13246916,
+    "brand": "Harper Lee",
+    "price": "21.22 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$7.19"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.44"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.22"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$45.88"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:26.062Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": "006242713X",
+    "brand": "by Dr. Steven R Gundry MD (Author)",
+    "price": "13.9 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$26.55"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$34.77"
+      }
+    ],
+    "publish_date": "2021-12-21T23:23:26.139Z",
+    "categories": [
+      "Books",
+      "Health, Fitness & Dieting",
+      "Diets & Weight Loss"
+    ]
+  },
+  {
+    "id": 25854547,
+    "brand": "Julia Donaldson",
+    "price": "6.98 USD",
+    "formats": [
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$8.66"
+      },
+      {
+        "name": "Board book",
+        "price": "$6.17"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:29.491Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Science Fiction & Fantasy"
+    ]
+  },
+  {
+    "id": 143110438,
+    "brand": "Amor Towles",
+    "price": "9.34 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.76"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.14"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:30.905Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 143111396,
+    "brand": "Sue Monk Kidd",
+    "price": "11.5 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.06"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$40.95"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:43.611Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 143111582,
+    "brand": "Frank Herbert",
+    "price": "21.49 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$8.24"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.89"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$56.05"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:56.108Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "United States"
+    ]
+  },
+  {
+    "id": 143119680,
+    "brand": "Deborah Harkness",
+    "price": "15.01 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$26.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$49.43"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:30.529Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 25994183,
+    "brand": "Sue Monk Kidd",
+    "price": "12.71 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$6.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$11.50"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": ""
+      },
+      {
+        "name": "Audio CD",
+        "price": "$3.94"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:30.789Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 143123629,
+    "brand": "Deborah Harkness",
+    "price": "15.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$18.38"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": ""
+      },
+      {
+        "name": "Audio CD",
+        "price": "$26.50"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:37.293Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 143125478,
+    "brand": "Daniel James Brown",
+    "price": "9.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$32.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$37.89"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:50.464Z",
+    "categories": [
+      "Books",
+      "History",
+      "Americas"
+    ]
+  },
+  {
+    "id": 25997143,
+    "brand": "Deborah Harkness",
+    "price": "15.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$15.90"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$65.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:38.336Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 25997161,
+    "brand": "Celeste Ng",
+    "price": "7.25 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$15.39"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$29.95"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:56.278Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 143127748,
+    "brand": "by Bessel van der Kolk M.D. (Author)",
+    "price": "11.4 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$22.53"
+      },
+      {
+        "name": "Audio CD",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:47.579Z",
+    "categories": [
+      "Books",
+      "Medical Books",
+      "Medicine"
+    ]
+  },
+  {
+    "id": 25997778,
+    "brand": "Héctor GarcíaFrancesc Miralles",
+    "price": "12.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$20.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:50.475Z",
+    "categories": [
+      "Books",
+      "Health, Fitness & Dieting",
+      "Aging"
+    ]
+  },
+  {
+    "id": 25998260,
+    "brand": "Keri Smith",
+    "price": "9.59 USD",
+    "formats": [
+      {
+        "name": "Spiral-bound",
+        "price": "$18.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:38.385Z",
+    "categories": [
+      "Books",
+      "Crafts, Hobbies & Home",
+      "Crafts & Hobbies"
+    ]
+  },
+  {
+    "id": 25999438,
+    "brand": "Raynor Winn",
+    "price": "14.9 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$47.03"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:34.237Z",
+    "categories": [
+      "Books",
+      "Reference",
+      "Writing, Research & Publishing Guides"
+    ]
+  },
+  {
+    "id": 25999856,
+    "brand": "Georgia Hunter",
+    "price": "8.79 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$42.16"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$34.06"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:45.007Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 143136968,
+    "brand": "Daniel James Brown",
+    "price": "7.48 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$32.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$37.89"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:32.128Z",
+    "categories": [
+      "Books",
+      "History",
+      "Americas"
+    ]
+  },
+  {
+    "id": 143428845,
+    "brand": "Sadhguru",
+    "price": "12.9 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$19.88"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$16.32"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:48.38Z",
+    "categories": [
+      "Books",
+      "Religion & Spirituality",
+      "New Age & Spirituality"
+    ]
+  },
+  {
+    "id": 151072558,
+    "brand": "George Orwell",
+    "price": "16.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": ""
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$7.47"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:50.335Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "United States"
+    ]
+  },
+  {
+    "id": 28847825,
+    "brand": "Yann Martel",
+    "price": "8.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$20.81"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$16.65"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$14.21"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:52.834Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 198826737,
+    "brand": "Jane Austen",
+    "price": "5.95 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$22.49"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$5.95"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$9.99"
+      },
+      {
+        "name": "Flexibound",
+        "price": "$21.91"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:39.265Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "History & Criticism"
+    ]
+  },
+  {
+    "id": 199535981,
+    "brand": "Oscar Wilde",
+    "price": "7.75 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": ""
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$6.46"
+      },
+      {
+        "name": "MP3 CD",
+        "price": ""
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:36:05.583Z",
+    "categories": [
+      "Books",
+      "LGBTQ+ Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 241399750,
+    "brand": "Mrs Hinch",
+    "price": "17.83 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:39.311Z",
+    "categories": [
+      "Books",
+      "Crafts, Hobbies & Home",
+      "Home Improvement & Design"
+    ]
+  },
+  {
+    "id": 306846373,
+    "brand": "Anne Glenconner",
+    "price": "15.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$4.56"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$17.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:41.813Z",
+    "categories": [
+      "Books",
+      "History",
+      "Europe"
+    ]
+  },
+  {
+    "id": 307010856,
+    "brand": "Jon Stone",
+    "price": "2.98 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$2.83"
+      },
+      {
+        "name": "Paperback",
+        "price": "$8.95"
+      },
+      {
+        "name": "Board book",
+        "price": "$4.74"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:47.257Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Activities, Crafts & Games"
+    ]
+  },
+  {
+    "id": 307118398,
+    "brand": "Mercer Mayer",
+    "price": "3.1 USD",
+    "formats": [
+      {
+        "name": "Hardcover",
+        "price": "$5.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:49.264Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Animals"
+    ]
+  },
+  {
+    "id": 307283658,
+    "brand": "J.K. Rowling",
+    "price": "51.03 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.74"
+      },
+      {
+        "name": "Paperback",
+        "price": "$10.00"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.88"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$63.98"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:47.16Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Growing Up & Facts of Life"
+    ]
+  },
+  {
+    "id": 52282216,
+    "brand": "Gillian Flynn",
+    "price": "10.22 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$22.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$7.25"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.44"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$69.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:44.088Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 52286565,
+    "brand": "Susan Cain",
+    "price": "15.47 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$7.73"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$29.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:43.205Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Relationships"
+    ]
+  },
+  {
+    "id": 52286571,
+    "brand": "Susan Cain",
+    "price": "7.73 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$14.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$15.47"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$29.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:44.976Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Relationships"
+    ]
+  },
+  {
+    "id": 307387895,
+    "brand": "Cormac McCarthy",
+    "price": "12.08 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.76"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$30.00"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$10.15"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:56.16Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": 307455920,
+    "brand": "Chimamanda Ngozi Adichie",
+    "price": "10.08 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$15.19"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$15.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:43.828Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 52325103,
+    "brand": "Timothy Ferriss",
+    "price": "13.36 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$21.39"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.97"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:43.534Z",
+    "categories": [
+      "Books",
+      "Business & Money",
+      "Business Culture"
+    ]
+  },
+  {
+    "id": 52329531,
+    "brand": "Cheryl Strayed",
+    "price": "9.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.46"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.44"
+      }
+    ],
+    "publish_date": "2021-12-21T23:38:19.915Z",
+    "categories": [
+      "Books",
+      "Travel",
+      "United States"
+    ]
+  },
+  {
+    "id": 307729915,
+    "brand": "Lisa Tawn BergrenLaura J. Bryant",
+    "price": "6.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$4.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$9.89"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:49.865Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 307742482,
+    "brand": "David Grann",
+    "price": "9.16 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.49"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$19.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:58.285Z",
+    "categories": [
+      "Books",
+      "Politics & Social Sciences",
+      "Social Sciences"
+    ]
+  },
+  {
+    "id": 52414748,
+    "brand": "Erin Morgenstern",
+    "price": "12 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.44"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$24.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:51.103Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": "030788743X",
+    "brand": "Ernest Cline",
+    "price": "18.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$11.00"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$14.42"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$21.00"
+      },
+      {
+        "name": "Textbook Binding",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:50.369Z",
+    "categories": [
+      "Books",
+      "Humor & Entertainment",
+      "Humor"
+    ]
+  },
+  {
+    "id": 307887448,
+    "brand": "Ernest Cline",
+    "price": "11 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$18.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$14.42"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$21.00"
+      },
+      {
+        "name": "Textbook Binding",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:51.934Z",
+    "categories": [
+      "Books",
+      "Humor & Entertainment",
+      "Humor"
+    ]
+  },
+  {
+    "id": 307931803,
+    "brand": "Dr. Seuss",
+    "price": "3.4 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$4.96"
+      },
+      {
+        "name": "Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "Spiral-bound",
+        "price": "$9.49"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$50.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:51.461Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Early Learning"
+    ]
+  },
+  {
+    "id": 307947300,
+    "brand": "Stephen King",
+    "price": "9.75 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$24.12"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$11.89"
+      },
+      {
+        "name": "Audio CD Library Binding",
+        "price": "$195.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:54.154Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 307949486,
+    "brand": "Stieg Larsson",
+    "price": "9.7 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.55"
+      },
+      {
+        "name": "Paperback",
+        "price": "$13.79"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$32.30"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:57.169Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Thrillers & Suspense"
+    ]
+  },
+  {
+    "id": 307950689,
+    "brand": "Dan Brown",
+    "price": "10.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$10.25"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$8.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:50.521Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 307957837,
+    "brand": "Philip Pullman",
+    "price": "21.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$19.99"
+      },
+      {
+        "name": "Paperback",
+        "price": "$15.62"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$18.50"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:46.759Z",
+    "categories": [
+      "Books",
+      "Crafts, Hobbies & Home",
+      "Crafts & Hobbies"
+    ]
+  },
+  {
+    "id": 307987698,
+    "brand": "Jon Stone",
+    "price": "4.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$3.99"
+      },
+      {
+        "name": "Paperback",
+        "price": "$24.99"
+      },
+      {
+        "name": "Board book",
+        "price": "$4.74"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:52.578Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": "031033750X",
+    "brand": "Rick Warren",
+    "price": "17.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$7.46"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$20.79"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:46.388Z",
+    "categories": [
+      "Books",
+      "Christian Books & Bibles",
+      "Christian Living"
+    ]
+  },
+  {
+    "id": 310350239,
+    "brand": "Henry Cloud",
+    "price": "21.95 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$13.23"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:45.747Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Relationships"
+    ]
+  },
+  {
+    "id": 310351804,
+    "brand": "Henry Cloud",
+    "price": "13.23 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$13.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$21.95"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$22.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:55.065Z",
+    "categories": [
+      "Books",
+      "Self-Help",
+      "Relationships"
+    ]
+  },
+  {
+    "id": 310708257,
+    "brand": "Sally Lloyd-JonesJago",
+    "price": "10.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:57.003Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": "031075013X",
+    "brand": "The Beginner's Bible",
+    "price": "7.67 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$7.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:51.293Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Religions"
+    ]
+  },
+  {
+    "id": 53064031,
+    "brand": "Gregory David Roberts",
+    "price": "15.29 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$23.52"
+      },
+      {
+        "name": "Audio CD",
+        "price": ""
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:49.128Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Action & Adventure"
+    ]
+  },
+  {
+    "id": 53079910,
+    "brand": "Madeleine L'Engle",
+    "price": "5.35 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$21.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": ""
+      },
+      {
+        "name": "Audio CD",
+        "price": "$25.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:43.526Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Science Fiction & Fantasy"
+    ]
+  },
+  {
+    "id": "031242678X",
+    "brand": "André Aciman",
+    "price": "10.89 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$21.08"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$21.37"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:48.328Z",
+    "categories": [
+      "Books",
+      "LGBTQ+ Books",
+      "Literature & Fiction"
+    ]
+  },
+  {
+    "id": 312498586,
+    "brand": "Roger Priddy",
+    "price": "4.7 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:47.903Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Early Learning"
+    ]
+  },
+  {
+    "id": 312510780,
+    "brand": "Roger Priddy",
+    "price": "4.78 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$13.95"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:57.025Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Education & Reference"
+    ]
+  },
+  {
+    "id": 53125685,
+    "brand": "Roger Priddy",
+    "price": "13.17 USD",
+    "formats": [],
+    "publish_date": "2021-12-21T23:35:45.85Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Education & Reference"
+    ]
+  },
+  {
+    "id": 53132863,
+    "brand": "Kristin Hannah",
+    "price": "10.7 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$25.95"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$9.99"
+      },
+      {
+        "name": "MP3 CD",
+        "price": "$8.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:53.993Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 312541538,
+    "brand": "Louise Penny",
+    "price": "9.76 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$31.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$6.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$155.85"
+      },
+      {
+        "name": "Digital",
+        "price": ""
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:53.441Z",
+    "categories": [
+      "Books",
+      "Mystery, Thriller & Suspense",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 53149330,
+    "brand": "Kristin Hannah",
+    "price": "11.15 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$11.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Paperback",
+        "price": "$8.28"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$20.10"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$26.53"
+      }
+    ],
+    "publish_date": "2021-12-21T23:24:58.591Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 53150575,
+    "brand": "Nancy Tillman",
+    "price": "4.98 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$8.72"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$14.54"
+      },
+      {
+        "name": "Paperback",
+        "price": "$1.49"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:44.099Z",
+    "categories": [
+      "Books",
+      "Children's Books",
+      "Growing Up & Facts of Life"
+    ]
+  },
+  {
+    "id": 53175915,
+    "brand": "Kristin Hannah",
+    "price": "7.56 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$0.00"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$16.48"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$14.99"
+      },
+      {
+        "name": "Multimedia CD",
+        "price": "$80.99"
+      }
+    ],
+    "publish_date": "2021-12-21T23:35:49.235Z",
+    "categories": [
+      "Books",
+      "Literature & Fiction",
+      "Genre Fiction"
+    ]
+  },
+  {
+    "id": 316015849,
+    "brand": "Stephenie Meyer",
+    "price": "10.16 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$10.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$17.99"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$52.95"
+      }
+    ],
+    "publish_date": "2021-12-21T23:26:15.715Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Science Fiction & Fantasy"
+    ]
+  },
+  {
+    "id": 316017930,
+    "brand": "Malcolm Gladwell",
+    "price": "14.15 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$12.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Library Binding",
+        "price": "$20.85"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$11.89"
+      }
+    ],
+    "publish_date": "2021-12-21T23:26:12.537Z",
+    "categories": [
+      "Books",
+      "Business & Money",
+      "Management & Leadership"
+    ]
+  },
+  {
+    "id": 54013864,
+    "brand": "Stephenie Meyer",
+    "price": "16.99 USD",
+    "formats": [
+      {
+        "name": "Kindle",
+        "price": "$9.99"
+      },
+      {
+        "name": "Audiobook",
+        "price": "Audiobook $0.00"
+      },
+      {
+        "name": "Hardcover",
+        "price": "$19.79"
+      },
+      {
+        "name": "Mass Market Paperback",
+        "price": "$10.00"
+      },
+      {
+        "name": "Audio CD",
+        "price": "$48.90"
+      }
+    ],
+    "publish_date": "2021-12-21T23:38:15.044Z",
+    "categories": [
+      "Books",
+      "Teen & Young Adult",
+      "Science Fiction & Fantasy"
+    ]
+  }
+]
