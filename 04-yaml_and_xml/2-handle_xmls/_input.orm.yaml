@@ -1,0 +1,9 @@
+CodelyTv\Mooc\Videos\Domain\Video:
+  type:  entity
+  table: videos
+
+  id:
+    id:
+      type: video_id
+      column: id
+      length: 36
