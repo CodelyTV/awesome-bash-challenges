@@ -8,7 +8,8 @@ yq -o=xml '. | {
         "+@name": ((map(.id))[0] | keys)[0],
         "+@type": (map((map(.id))[0]))[0].type,
         "+@column": (map((map(.id))[0]))[0].column,
-        "+@length": (map((map(.id))[0]))[0].length
+        "+@length": (map((map(.id))[0]))[0].length,
+        "+content": "enabled"
       }
     }
   }
