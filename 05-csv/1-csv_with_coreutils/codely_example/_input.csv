@@ -1,0 +1,4 @@
+user_id,first_name,last_name,email,profile_bio,profile_location,registration_id,registration_role,course_id,course_name,path_type,cohort_id,cohort_name,progress_pct,start_date,completion_date,access_expiration,last_session_time,last_registration_activity,points_earned,points_missed,points_available,score,discount_code
+344310,Javier,Ferrer,javier.ferrer[at]codely.tv,,,1579920,Teacher,52283,Automatiza tu flujo de trabajo con GitHub Actions,Course,113898,CodelyTV Pro,0.0,2020-03-12 14:24:53.616830+00:00,,,2022-09-23 16:34:58.666583+00:00,2020-03-12 14:24:53.651001+00:00,0,0,0,,
+371792,Rafa,Gómez,rafa.gomez[at]codely.tv,"👨‍💻 Construyendo CodelyTV 🚀. He pasado (y a veces sigo yendo) por La Salle, letgo, Akamon, Thatzad... Never Stop Learning!",Barcelona,2879844,Teacher,174088,Introducción a Kotlin: Tu primera app,Course,381069,CodelyTV Pro,0.0,2022-01-05 14:51:46.154101+00:00,,,2022-09-30 17:09:56.580617+00:00,2022-01-07 10:34:56.867169+00:00,0,0,0,,
+
