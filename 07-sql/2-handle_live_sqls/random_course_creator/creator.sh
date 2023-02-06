@@ -16,9 +16,15 @@ function generate_random_course_insert() {
 	echo "$insert_sql"
 }
 
+total_inserts=0
 while true; do
-	seconds_between_inserts=$(<./seconds_between_inserts)
+	number_of_inserts_per_second=$(<./number_of_inserts_per_second)
+	seconds_between_inserts=$(echo "scale=2; 1 / $number_of_inserts_per_second" | bc)
 
-	generate_random_course_insert
+	insert=$(generate_random_course_insert)
+	total_inserts=$((total_inserts + 1))
+	mysql -uroot -hcodely-awesome_bash_challenges-7_2-mariadb --database=mooc -e"$insert"
+	echo "$total_inserts> ($number_of_inserts_per_second inserts/s): '$insert' - Executed"
+
 	sleep "$seconds_between_inserts"
 done
