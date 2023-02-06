@@ -17,6 +17,8 @@ function generate_random_course_insert() {
 }
 
 while true; do
+	seconds_between_inserts=$(<./seconds_between_inserts)
+
 	generate_random_course_insert
-	sleep  1
+	sleep "$seconds_between_inserts"
 done
