@@ -18,3 +18,16 @@ services:
       timeout: 10s
       retries: 10
     command: ["--default-authentication-plugin=mysql_native_password"]
+
+  random_course_creator:
+    container_name: codely-awesome_bash_challenges-7_2-random_course_creator
+    user: "${UID}:${GID}"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    volumes:
+      - ./random_course_creator:/app:delegated
+    depends_on:
+      - mariadb
+    command: bash creator.sh
