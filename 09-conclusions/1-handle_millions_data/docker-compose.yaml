@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  mariadb:
+    container_name: codely-awesome_bash_challenges-9_1-mariadb
+    image: mariadb:10.7.4
+    ports:
+      - "3360:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+      - MARIADB_DATABASE=mooc
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD", "mysqladmin", "--user=root", "--password=", "--host=127.0.0.1", "ping", "--silent"]
+      interval: 2s
+      timeout: 10s
+      retries: 10
+    command: ["--default-authentication-plugin=mysql_native_password --log-bin"]
+
+  random_course_creator:
+    container_name: codely-awesome_bash_challenges-9_1-random_course_creator
+    user: "${UID}:${GID}"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    volumes:
+      - ./random_course_creator:/app:delegated
+    depends_on:
+      - mariadb
+    command: bash creator.sh
