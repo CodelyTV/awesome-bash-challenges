@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  mariadb:
+    container_name: codely-awesome_bash_challenges-8_2-mariadb
+    image: mariadb:10.7.4
+    ports:
+      - "3360:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+      - MARIADB_DATABASE=mooc
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD", "mysqladmin", "--user=root", "--password=", "--host=127.0.0.1", "ping", "--silent"]
+      interval: 2s
+      timeout: 10s
+      retries: 10
+    command: ["--default-authentication-plugin=mysql_native_password"]
