@@ -1,3 +1,3 @@
 # 🔥 Challenge
 
-1. Transform all courses inside `codely-awesome_bash_challenges-8_1-mariadb` into json
+1. Transform all courses inside `codely-awesome_bash_challenges-8_1-mariadb` into json with the better performance possible
